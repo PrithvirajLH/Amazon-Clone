@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Amazon-Clone/static/css/main.dd20eb23.css",
+    "main.js": "/Amazon-Clone/static/js/main.4ac8a4c5.js",
+    "static/js/787.ae3bcd1c.chunk.js": "/Amazon-Clone/static/js/787.ae3bcd1c.chunk.js",
+    "static/media/checkoutBanner.jpg": "/Amazon-Clone/static/media/checkoutBanner.9b9013444b8e3df084cc.jpg",
+    "index.html": "/Amazon-Clone/index.html",
+    "main.dd20eb23.css.map": "/Amazon-Clone/static/css/main.dd20eb23.css.map",
+    "main.4ac8a4c5.js.map": "/Amazon-Clone/static/js/main.4ac8a4c5.js.map",
+    "787.ae3bcd1c.chunk.js.map": "/Amazon-Clone/static/js/787.ae3bcd1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd20eb23.css",
+    "static/js/main.4ac8a4c5.js"
+  ]
+}
